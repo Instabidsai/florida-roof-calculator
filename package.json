@@ -1,0 +1,14 @@
+{
+  "name": "florida-roof-calculator",
+  "version": "1.0.0",
+  "description": "Florida roof replacement cost calculator based on 1,200+ South Florida projects",
+  "main": "calculator.js",
+  "keywords": ["roofing", "florida", "cost-calculator", "construction", "home-improvement", "miami", "south-florida"],
+  "author": "Goliath Roofing of Florida (https://goliathroofingofflorida.com)",
+  "license": "MIT",
+  "homepage": "https://goliathroofingofflorida.com/roof-cost-florida",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Instabidsai/florida-roof-calculator"
+  }
+}
