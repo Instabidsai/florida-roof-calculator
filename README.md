@@ -33,12 +33,21 @@ Based on 1,200+ completed projects. See our [full statistics page](https://golia
 
 *Miami-Dade is 10-15% higher due to [HVHZ requirements](https://goliathroofingofflorida.com/blog/hvhz-roofing-florida-explained).*
 
+## Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [florida-roofing-data](https://github.com/Instabidsai/florida-roofing-data) | Open dataset powering this calculator — costs, codes, permits |
+| [florida-roofing-faq](https://github.com/Instabidsai/florida-roofing-faq) | 300+ expert-answered roofing questions for Florida homeowners |
+
 ## Resources
 
-- [Florida Roofing Statistics 2026](https://goliathroofingofflorida.com/florida-roofing-statistics)
-- [Roof Cost Guide](https://goliathroofingofflorida.com/roof-cost-florida)
-- [HVHZ Requirements Explained](https://goliathroofingofflorida.com/blog/hvhz-roofing-florida-explained)
-- [Open Data Repository](https://github.com/Instabidsai/florida-roofing-data)
+- [Florida Roofing Statistics 2026](https://goliathroofingofflorida.com/florida-roofing-statistics) — Interactive charts and visualizations
+- [Roof Cost Guide](https://goliathroofingofflorida.com/roof-cost-florida) — Detailed pricing by county and material
+- [HVHZ Requirements Explained](https://goliathroofingofflorida.com/blog/hvhz-roofing-florida-explained) — Why Miami-Dade costs more
+- [Metal vs Shingle Comparison](https://goliathroofingofflorida.com/blog/metal-vs-shingle-roofs-south-florida) — Which material is right for you
+- [How to Read a Roofing Estimate](https://goliathroofingofflorida.com/blog/how-to-read-roofing-estimate-florida) — Understand contractor quotes
+- [Free Roof Inspection](https://goliathroofingofflorida.com/free-roof-inspection) — Get a no-cost assessment
 
 ## License
 
